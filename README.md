@@ -4,6 +4,8 @@
 
 I'm usually the person who owns how a product's server side is designed, built and kept healthy: clean schemas, sensible failure modes, and code that's boring in all the right places. Right now that means leading the backend and architecture of [Truck Parking Club](https://truckparkingclub.com), a two-sided marketplace for truck parking.
 
+Outside of software, I run my family's dairy farm — [Dhaliwal Dairy Farms](https://dhaliwaldairyfarms.com) in Punjab. Though software has a way of following me home — I'm building the farm's management app too.
+
 🌐 [msdhaliwal.com](https://msdhaliwal.com) · 📧 [contact@msdhaliwal.com](mailto:contact@msdhaliwal.com)
 
 ---
